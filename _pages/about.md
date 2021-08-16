@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+# I'm Aniket, a software engineer who loves to tinker.
 
+## Currently, I am working as a machine learning engineer building a search product for healthcare enterprises.
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+## Besides day to day work, I read a lot. Currently, I am reading Susan Cain's Quiet.
