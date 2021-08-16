@@ -6,6 +6,25 @@
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+.site-header {
+  font-family: 'Lora';
+}
+
+.site-title {
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 54px;
+}
+
+.page-content {
+  font-family: 400 16px/1.5 'Lora', serif !important;
+}
+
+.post-content p, .post-content li {
+  font-size: 16px;
+}
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
