@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
 .highlight .c { color: #998; font-style: italic; }
 
 .highlight .err { color: #a61717; background-color: #e3d2d2; }
@@ -429,6 +430,14 @@ pre code { font-size: 15px !important; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
+.site-header { font-family: 'Lora'; }
+
+.site-title { font-size: 26px; font-weight: 400; line-height: 54px; }
+
+.page-content { font-family: 400 16px/1.5 'Lora', serif !important; }
+
+.post-content p, .post-content li { font-size: 16px; }
+
 .language-python + .language-plaintext { border-left: 1px solid grey; margin-left: 1rem !important; }
 
 [class^="language-"]:not(.language-plaintext) pre, [class^="language-"]:not(.language-plaintext) code { background-color: #323443 !important; color: #f8f8f2; }
