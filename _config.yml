@@ -121,17 +121,7 @@ kramdown:
 feed:
   posts_limit: 5 #default posts_limit: 10
   excerpt_only: true
-  
-atom_feed:
   hide: true
-  
-minimal_mistakes_skin: dark
-
-author:
-  name     : "aniket"
-  avatar   : "/images/diagram.png"
-  bio      : "My awesome biography constrained to a sentence or two goes here."
-  location : "Somewhere, USA"
   
 exclude:
   - settings.ini
