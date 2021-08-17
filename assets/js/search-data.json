@@ -38,17 +38,6 @@
   
 
   
-      ,"page2": {
-          "title": "Blog",
-          "content": "Posts .",
-          "url": "https://amishrikotkar.github.io/blog/blog/",
-          "relUrl": "/blog/",
-          "date": ""
-      }
-      
-  
-
-  
 
   
   
@@ -66,7 +55,7 @@
   
 
   
-      ,"page9": {
+      ,"page8": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://amishrikotkar.github.io/blog/robots.txt",
