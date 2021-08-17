@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;500&display=swap");
 .highlight .c { color: #998; font-style: italic; }
 
 .highlight .err { color: #a61717; background-color: #e3d2d2; }
@@ -430,7 +430,7 @@ pre code { font-size: 15px !important; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
-.site-header .footer-col-wrapper { font-family: 'Lora' !important; }
+.site-header { font-family: 'Manrope', sans-serif; }
 
 .site-title { font-size: 26px; font-weight: 400; line-height: 54px; }
 
