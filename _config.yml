@@ -126,6 +126,12 @@ atom_feed:
   hide: true
   
 minimal_mistakes_skin: dark
+
+author:
+  name     : "aniket"
+  avatar   : "/images/diagram.png"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "Somewhere, USA"
   
 exclude:
   - settings.ini
