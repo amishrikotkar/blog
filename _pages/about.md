@@ -10,7 +10,7 @@ permalink: /about/
 
 🧬 Besides day to day work, I read a lot. Currently, I am reading 📚 Susan Cain's Quiet.
 
-💸 I love discussing about technology, cryptocurrency and investing or any random facts.
+💸 I love discussing about technology, cryptocurrency, investing or any random facts/stories.
 
 ✉️ You can email me at [email](aniketmishrikotkar@gmail.com) or reach out to me on [twitter](https://twitter.com/aniket_mish) or at [linkedin](https://linkedin/in/amishrikotkar)
 
