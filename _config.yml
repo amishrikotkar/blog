@@ -122,5 +122,10 @@ feed:
   posts_limit: 5 #default posts_limit: 10
   excerpt_only: true
   
+atom_feed:
+  hide: true
+  
+minimal_mistakes_skin: dark
+  
 exclude:
   - settings.ini
