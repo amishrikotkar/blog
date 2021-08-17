@@ -4,13 +4,15 @@ title: About Me
 permalink: /about/
 ---
 
-### I'm Aniket, a software engineer who loves to tinker.
+### 👋🏻 I'm Aniket, a software engineer who loves to tinker.
 
-Currently, I am working as a machine learning engineer in Accenture building a search product for healthcare enterprises. I am also into web development, 
-actively learning and building apps. In the past, I have integrated features based on ML into some web apps. I have interests in NLP and robotics. 
+⚒ Currently, I am working as a machine learning engineer in Accenture building a search product for healthcare enterprises. I am also into web development, 
+actively learning and building apps. In the past, I have integrated features based on ML into some web apps. I have interests in NLP and robotics.
 
-💸 I love reading about technology, cryptocurrency and investing.
+🧬 Besides day to day work, I read a lot. Currently, I am reading 📚 Susan Cain's Quiet.
 
-Besides day to day work, I read a lot. Currently, I am reading 📚 Susan Cain's Quiet. I love trekking 🥾
+💸 I love discussing about technology, cryptocurrency and investing or any random facts.
+
+✉️ You can email me at [email][aniketmishrikotkar@gmail.com] or reach out to me on [twitter][https://twitter.com/aniket_mish]/[linkedin][https://linkedin/in/amishrikotkar]
 
 # Posts
