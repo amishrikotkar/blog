@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![](/images/diagram.png)
+![](/images/banner.png)
 
 ### 👋🏻 I'm Aniket, a software engineer who loves to tinker.
 
