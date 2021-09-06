@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+![](/images/diagram.png)
+
 ### 👋🏻 I'm Aniket, a software engineer who loves to tinker.
 
 🔨 I am a Machine Learning Engineer at Accenture. I am working on search for healthcare enterprises. I am also into web development, actively learning and building apps. In the past, I have integrated features based on ML into web apps built using react. I have interests in NLP and next generation web apps. Currently, I am learning Graph ML and its applications.
